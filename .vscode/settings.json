@@ -65,7 +65,15 @@
     "Codeforces/1089vp/2210B.exe": true,
     "Codeforces/1089vp/2210B.ilk": true,
     "Codeforces/1089vp/2210B.obj": true,
-    "Codeforces/1089vp/2210B.pdb": true
+    "Codeforces/1089vp/2210B.pdb": true,
+    "Codeforces/1090vp/2218C.exe": true,
+    "Codeforces/1090vp/2218C.ilk": true,
+    "Codeforces/1090vp/2218C.obj": true,
+    "Codeforces/1090vp/2218C.pdb": true,
+    "Codeforces/1090vp/2218D.exe": true,
+    "Codeforces/1090vp/2218D.ilk": true,
+    "Codeforces/1090vp/2218D.obj": true,
+    "Codeforces/1090vp/2218D.pdb": true
   },
   "hide-files.files": [
     "Codeforces/testing.exe",
@@ -128,6 +136,14 @@
     "Codeforces/1089vp/2210B.exe",
     "Codeforces/1089vp/2210B.ilk",
     "Codeforces/1089vp/2210B.obj",
-    "Codeforces/1089vp/2210B.pdb"
+    "Codeforces/1089vp/2210B.pdb",
+    "Codeforces/1090vp/2218C.exe",
+    "Codeforces/1090vp/2218C.ilk",
+    "Codeforces/1090vp/2218C.obj",
+    "Codeforces/1090vp/2218C.pdb",
+    "Codeforces/1090vp/2218D.exe",
+    "Codeforces/1090vp/2218D.ilk",
+    "Codeforces/1090vp/2218D.obj",
+    "Codeforces/1090vp/2218D.pdb"
   ]
 }
